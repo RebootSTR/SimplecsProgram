@@ -1,0 +1,13 @@
+C:\Users\rafik\source\repos\SimplecsProgram\SimplecsProgram\bin\Release\SimplecsProgram.exe.config
+C:\Users\rafik\source\repos\SimplecsProgram\SimplecsProgram\bin\Release\SimplecsProgram.exe
+C:\Users\rafik\source\repos\SimplecsProgram\SimplecsProgram\bin\Release\SimplecsProgram.pdb
+C:\Users\rafik\source\repos\SimplecsProgram\SimplecsProgram\obj\Release\SimplecsProgram.csproj.AssemblyReference.cache
+C:\Users\rafik\source\repos\SimplecsProgram\SimplecsProgram\obj\Release\SimplecsProgram.csproj.SuggestedBindingRedirects.cache
+C:\Users\rafik\source\repos\SimplecsProgram\SimplecsProgram\obj\Release\SimplecsProgram.Form1.resources
+C:\Users\rafik\source\repos\SimplecsProgram\SimplecsProgram\obj\Release\SimplecsProgram.Properties.Resources.resources
+C:\Users\rafik\source\repos\SimplecsProgram\SimplecsProgram\obj\Release\SimplecsProgram.ResultBox.resources
+C:\Users\rafik\source\repos\SimplecsProgram\SimplecsProgram\obj\Release\SimplecsProgram.SimplecsTables.resources
+C:\Users\rafik\source\repos\SimplecsProgram\SimplecsProgram\obj\Release\SimplecsProgram.csproj.GenerateResource.cache
+C:\Users\rafik\source\repos\SimplecsProgram\SimplecsProgram\obj\Release\SimplecsProgram.csproj.CoreCompileInputs.cache
+C:\Users\rafik\source\repos\SimplecsProgram\SimplecsProgram\obj\Release\SimplecsProgram.exe
+C:\Users\rafik\source\repos\SimplecsProgram\SimplecsProgram\obj\Release\SimplecsProgram.pdb

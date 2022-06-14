@@ -20,7 +20,7 @@ namespace SimplecsProgram
         {
             InitializeComponent();
             uiState = new UiState(this);
-            debugInit();
+            //debugInit();
         }
 
         private void debugInit()
