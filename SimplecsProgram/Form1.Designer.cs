@@ -55,6 +55,7 @@
             this.label3 = new System.Windows.Forms.Label();
             this.button1 = new System.Windows.Forms.Button();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            this.aboutButton = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.limitTable)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.funcTable)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.limitValuesTable)).BeginInit();
@@ -350,7 +351,7 @@
             // button1
             // 
             this.button1.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
-            this.button1.Location = new System.Drawing.Point(385, 433);
+            this.button1.Location = new System.Drawing.Point(337, 433);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(75, 23);
             this.button1.TabIndex = 23;
@@ -370,11 +371,23 @@
             this.pictureBox1.TabIndex = 18;
             this.pictureBox1.TabStop = false;
             // 
+            // aboutButton
+            // 
+            this.aboutButton.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
+            this.aboutButton.Location = new System.Drawing.Point(418, 433);
+            this.aboutButton.Name = "aboutButton";
+            this.aboutButton.Size = new System.Drawing.Size(45, 23);
+            this.aboutButton.TabIndex = 23;
+            this.aboutButton.Text = "About";
+            this.aboutButton.UseVisualStyleBackColor = true;
+            this.aboutButton.Click += new System.EventHandler(this.aboutButton_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(472, 468);
+            this.Controls.Add(this.aboutButton);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.limitValuesTable);
@@ -401,7 +414,7 @@
             this.Controls.Add(this.label9);
             this.MinimumSize = new System.Drawing.Size(470, 463);
             this.Name = "Form1";
-            this.Text = "Симплекс программа. Рафиков А.Р. 2022.";
+            this.Text = "Симплекс программа";
             ((System.ComponentModel.ISupportInitialize)(this.limitTable)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.funcTable)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.limitValuesTable)).EndInit();
@@ -439,6 +452,7 @@
         private System.Windows.Forms.DataGridViewTextBoxColumn dataGridViewTextBoxColumn2;
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.Button aboutButton;
     }
 }
 

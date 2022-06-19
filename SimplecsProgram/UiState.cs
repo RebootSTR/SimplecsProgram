@@ -136,7 +136,6 @@ namespace SimplecsProgram
             {
                 return 0;
             }
-            
         }
 
         public void updateTablesAndLabels()

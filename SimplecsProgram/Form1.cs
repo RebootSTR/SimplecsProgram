@@ -123,5 +123,10 @@ namespace SimplecsProgram
             }
             Process.Start(tempPath);
         }
+
+        private void aboutButton_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Создатель программы: Рафиков А.Р.\nПрограмма создана для предмета \"Математическое Программирование\"\n\nP.S. Запомните меня, скоро буду на вершине :)");
+        }
     }
 }
